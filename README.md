@@ -10,5 +10,6 @@
 - JavaScript ES6+ features
 - Using arrays
 
-![]images/octotcat.jpeg
+![](images/octotcat.jpeg)
+
 

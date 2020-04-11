@@ -9,3 +9,6 @@
 - Markdown language for README files
 - JavaScript ES6+ features
 - Using arrays
+
+![]images/octotcat.jpeg
+
